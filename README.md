@@ -2,6 +2,27 @@
 
 **Soma Smart** is an AI-powered, offline-first mobile learning application tailored specifically for Kenya's Competency-Based Curriculum (CBC) transition for primary and junior secondary students. Built natively with modern Android technologies (Kotlin & Jetpack Compose), Soma Smart delivers localized curriculum content, AI-driven study assistance, offline practice quizzes, gamified progression, and printable PDF report card generation.
 
+## 🌟 Vision & Project Status
+
+**The Vision:** To democratize high-quality, AI-driven education for every Kenyan student, regardless of their internet connectivity. By blending the KICD curriculum with advanced LLMs, Soma Smart aims to reduce the "tutor gap" in rural and urban-marginalized areas.
+
+**Current Status:** 🏗️ **Alpha Development**
+- [x] Core MVVM Architecture & Room Integration
+- [x] Gemini API Integration for Quiz Generation
+- [x] PDF Report Exporting
+- [x] "Soma Prompt" AI Strategy (Localized CBC Tuning)
+- [ ] Refining UI/UX Material 3 Components
+- [ ] Finalizing STK Push Webhook Handlers
+- [ ] Optimizing AI Prompt Engineering for Grade-specific accuracy
+
+---
+
+## 📑 Table of Contents
+* [Core Features](#-core-features)
+* [Tech Stack](#️-tech-stack--architecture)
+* [Getting Started](#-getting-started)
+* [Screenshots](#-screenshots--overview)
+
 ---
 
 ## ✨ Core Features
